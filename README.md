@@ -5,7 +5,7 @@ We can we can execute a set of statements, once for each item in a list, tuple, 
 
 
 1.  [Executing For Loop](executing-for-loop.py)
-2.  [Access Sets](access-sets.py)
+2.  [Looping Through a String](looping-string.py)
 3.  [Add Items](add-items.py)
 4.  [Remove Items](remove-items.py)
 5.  [Loop Sets](loop-sets.py)
