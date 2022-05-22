@@ -7,7 +7,7 @@ We can we can execute a set of statements, once for each item in a list, tuple, 
 1.  [Executing For Loop](executing-for-loop.py)
 2.  [Looping Through a String](looping-string.py)
 3.  [Break Loop](break-statement.py)
-4.  [Remove Items](remove-items.py)
+4.  [Continue Loop](continue-statement.py)
 5.  [Loop Sets](loop-sets.py)
 6.  [Join Sets](join-sets.py)
 7.  [Sets Methods](methods-sets.md)
